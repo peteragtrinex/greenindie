@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "KRC3KK4TX5.com.jibabs1.greenindie",
+        "paths": ["https://greenindie.com/m/*"]
+      }
+    ]
+  },
+  "activitycontinuation": {
+    "apps": ["KRC3KK4TX5.com.jibabs1.greenindie"]
+  },
+  "webcredentials": {
+    "apps": ["KRC3KK4TX5.com.jibabs1.greenindie"]
+  }
+}
