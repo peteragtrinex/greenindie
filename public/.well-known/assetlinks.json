@@ -6,7 +6,19 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.jibabs1.greenindie",
-      "sha256_cert_fingerprints": ["E9:23:99:CB:7E:1C:CA:93:52:C6:85:CF:41:3F:9A:7E:65:00:40:26:F9:0C:FA:F3:79:1A:BA:78:00:93:71:87"]
+      "sha256_cert_fingerprints": [
+        "E9:23:99:CB:7E:1C:CA:93:52:C6:85:CF:41:3F:9A:7E:65:00:40:26:F9:0C:FA:F3:79:1A:BA:78:00:93:71:87",
+        "5E:FA:D4:2D:8E:43:72:52:C5:DF:12:E4:1D:19:92:29:D4:A5:0B:F9:88:CF:08:2D:8E:FB:25:38:82:6D:76:5C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jibabs1.greenindie",
+      "sha256_cert_fingerprints":
+        ["5E:FA:D4:2D:8E:43:72:52:C5:DF:12:E4:1D:19:92:29:D4:A5:0B:F9:88:CF:08:2D:8E:FB:25:38:82:6D:76:5C"]
     }
   }
 ]
