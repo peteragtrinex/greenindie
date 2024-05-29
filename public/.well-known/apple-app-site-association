@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "KRC3KK4TX5.com.jibabs1.greenindie",
-        "paths": ["https://mobile.greenindie.com/*", "http://mobile.greenindie.com/*"]
+        "paths": ["https://mobile.greenindie.com/*"]
       }
     ]
   },
